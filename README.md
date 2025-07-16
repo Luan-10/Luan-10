@@ -11,6 +11,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
+  <img align="center" alt="Python" height="30" width="40"<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://static-media.hotmart.com/pI6_Dp4M-li6ktEBVgA8CPszPAw=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/37fbd159-6126-4d4c-818a-851523dcaa3b/Curso_C.png?w=920)" /> 
 </div>
           
 <br>
